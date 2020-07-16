@@ -1,10 +1,10 @@
 ### Hi there visitor! 👋
 
 
-My name is Cristian Morales, i am a boy than i love programming. i have the idea than all the world should know computer programming. 
+My name is Cristian Morales, i am a boy than i love programming. I have the idea than all the world should know computer programming. 
 That practice do you know to think and resolve ideas most fast and efficiently.
 
-i speak Spanish and some English. i'm in searching of job in USA :)
+I speak Spanish and some English. i'm in searching of job in USA, aslo I'm take classes of english to keep better conversations :)
 
 I'm currently learning Full stack web develop, on the academy of programming "Soy Henry". Their i learned since the bases of javascript and web develop until mount a SPA E-Commerce, back-end and front-end completely since zero ussing React and Redux, aslo NodeJS, Express and Sequelize to Databases.
 
