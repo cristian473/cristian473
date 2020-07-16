@@ -1,7 +1,5 @@
 ### Hi there visitor! 👋
 
-<!--
-**cristian473/cristian473** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 My name is Cristian Morales, i am a boy than i love programming. i have the idea than all the world should know computer programming. 
 That practice do you know to think and resolve ideas most fast and efficiently.
