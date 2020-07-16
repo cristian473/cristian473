@@ -1,13 +1,11 @@
 ### Hi there visitor! 👋
 
 
-My name is Cristian Morales, i am a boy than i love programming. I have the idea than all the world should know computer programming. 
-That practice do you know to think and resolve ideas most fast and efficiently.
+My name is Cristian Morales, and I love programming. I belive that all the world should know about computer programming becouse you are 
+going to think and resolve ideas faster and more efficiently.
 
-I speak Spanish and some English. i'm in searching of job in USA, aslo I'm take classes of english to keep better conversations :)
+I speak Spanish and some English. I’m searching job in USA, aslo I’m taking english lessons to keep better conversations :)
 
-I'm currently learning Full stack web develop, on the academy of programming "Soy Henry". Their i learned since the bases of javascript and web develop until mount a SPA E-Commerce, back-end and front-end completely since zero ussing React and Redux, aslo NodeJS, Express and Sequelize to Databases.
+I’m currently learning Full stack web development at “Soy Henry”, an argentinian programming academy. I’ve learned the bases of javascript and web development, back-end and front-end completely from zero ussing React and Redux, also NodeJS, Express and Sequelize to Databases.
 
-I'm currently working on a SPA E-Commerce on Henry academy, as preparation proyect. aslo personality i make a Mobile-App to help people to get a helper to talk about yours problems, so,  the people called "helpers" can apply to be helpers, and lister the problems of others persons.
-All this for the art love. this's being make with React-Native for front and i still don't start with backend. i think i will use nodeJS :)
-
+I’m currently working on a SPA E-Commerce at Henry academy, as final proyect. Also, as a personal project, I am doing a Mobile-App to help people to talk about their problems. Users called “helpers” can apply to be helpers, and listen the problems of other people. All this for the art of love. I’m doing this App with React-Native for the front-end and I still don’t start with backend, but i’m going to use nodeJS 
